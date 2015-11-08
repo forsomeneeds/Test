@@ -117,10 +117,10 @@ public class MonitorThread implements Runnable {
 
 
             for (int i = 0; i < list.size(); i++) {
-                if (list.size()<count)
+                if (list.get(i).size()<count)
                 {
                     index = i;
-                    count = list.size();
+                    count = list.get(i).size();
                 }
             }
 

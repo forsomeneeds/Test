@@ -1,9 +1,9 @@
-CREATE TABLE tItems(
-ItemId integer primary key,
-GroupId integer
+CREATE TABLE Queue(
+Item_Id integer primary key,
+Group_Idinteger
 )
 
-insert into tItems(ItemId,GroupId) 
+insert into Queue(Item_Id,Group_Id) 
 values (
 (1,1),
 (2,1),

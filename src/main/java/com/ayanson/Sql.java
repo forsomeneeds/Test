@@ -35,10 +35,10 @@ public class Sql {
             try {
                 conn = getConnection();
                 statement = conn.createStatement();
-                ResultSet rs = statement.executeQuery("select ItemId,GroupId from tItems");
+                ResultSet rs = statement.executeQuery("select Item_Id,Group_Id from Queue");
 
                 while(rs.next())
-                    result.add(new Item(rs.getInt("ItemId"), rs.getInt("GroupId")));
+                    result.add(new Item(rs.getInt("Item_Id"), rs.getInt("Group_Id")));
 
                 rs.close();
                 conn.close();
@@ -72,7 +72,7 @@ public class Sql {
 
             try {
                 conn = getConnection();
-                statement = conn.prepareStatement("delete from tItems where ItemId=?");
+                statement = conn.prepareStatement("delete from Queue where Item_Id=?");
                 statement.setInt(1, itemId);
 
                 statement.execute();
