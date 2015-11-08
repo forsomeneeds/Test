@@ -1,0 +1,27 @@
+2015-11-08 19:19:10 INFO  Main:23 - Using default parameters
+2015-11-08 19:19:10 INFO  Main:26 - fakeSqlMode on, threadCount=4
+2015-11-08 19:27:21 INFO  Main:23 - Using default parameters
+2015-11-08 19:27:21 INFO  Main:26 - fakeSqlMode on, threadCount=4
+2015-11-08 19:27:21 INFO  Main:27 - Thread-0 Monitor on Sun Nov 08 19:27:21 NOVT 2015
+2015-11-08 19:27:21 INFO  Main:45 - Start
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-1 ItemId=9. GroupId=1
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-2 ItemId=14. GroupId=2
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-4 ItemId=6. GroupId=4
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-3 ItemId=2. GroupId=3
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-1 ItemId=12. GroupId=1
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-2 ItemId=15. GroupId=2
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-3 ItemId=3. GroupId=3
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-1 ItemId=1. GroupId=5
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-4 ItemId=7. GroupId=4
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-1 ItemId=8. GroupId=5
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-1 ItemId=5. GroupId=6
+2015-11-08 19:27:21 INFO  Main:22 - pool-1-thread-1 ItemId=13. GroupId=6
+2015-11-08 19:27:22 INFO  Main:52 - Finish
+2015-11-08 19:27:23 INFO  Main:45 - Start
+2015-11-08 19:27:23 INFO  Main:22 - pool-1-thread-2 ItemId=4. GroupId=3
+2015-11-08 19:27:23 INFO  Main:22 - pool-1-thread-1 ItemId=16. GroupId=6
+2015-11-08 19:27:23 INFO  Main:22 - pool-1-thread-4 ItemId=10. GroupId=5
+2015-11-08 19:27:23 INFO  Main:22 - pool-1-thread-3 ItemId=11. GroupId=4
+2015-11-08 19:27:23 INFO  Main:22 - pool-1-thread-3 ItemId=17. GroupId=4
+2015-11-08 19:27:23 INFO  Main:52 - Finish
+2015-11-08 19:27:28 INFO  Main:63 - Thread-0 Monitor off Sun Nov 08 19:27:28 NOVT 2015
